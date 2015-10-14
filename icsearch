@@ -1,10 +1,14 @@
 #!/bin/sh
+# if you have a folder where you saved datasheets this will quickly search for filenames
+# set this folder in $DIR
+# 20151014 wotwot
+
 if [ -z "$@" ] ; then
 	echo "search what ?"
 	exit
 fi
 
-DIR=/electrodoc/_ICs
+DIR=`dirname $0`
 
 cd $DIR
 
