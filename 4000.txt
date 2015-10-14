@@ -1,0 +1,159 @@
+List of 4000 series integrated circuits
+From Wikipedia, the free encyclopedia
+
+4000 - Dual 3-input NOR gate + 1 Inverter
+4001 - Quad 2-input NOR gate
+4002 - Dual 4-input NOR gate
+4006 - 18 stage Shift register
+4007 - Dual Complementary Pair Plus Inverter
+4008 - 4 bit adder
+4009 - Hex inverting buffer
+4010 - Hex non-inverting buffer
+4011 - Buffered Quad 2-Input NAND gate
+4012 - Dual 4-input NAND gate
+4013 - Dual D-type flip-flop
+4014 - 8-stage shift register
+4015 - Dual 4-stage shift register
+4016 - Quad bilateral switch
+4017 - Divide-by-10 counter (5-stage Johnson counter)
+4018 - Presettable divide-by-n counter
+4019 - Quad AND-OR Select Gate
+4020 - 14-stage binary counter
+4021 - 8-bit static shift register
+4022 - Divide-by-8 counter (4-stage Johnson counter)
+4023 - Triple 3-input NAND gate
+4024 - 7-Stage Binary Ripple Counter
+4025 - Triple 3-input NOR gate
+4026 - BCD counter with decoded 7-segment output
+4027 - Dual JK flip-flop
+4028 - BCD to decimal (1-of-10) decoder
+4029 - Presettable up/down counter, binary or BCD-decade
+4030 - Quad XOR gate (replaced by 4070)
+4031 - 64-Bit Static Shift Register
+4032 - Triple serial adder
+4033 - BCD counter + 7-segment decoder w/ripple blank
+4034 - 8-stage bidirectional parallel or serial input/parallel output
+4035 - 4-stage parallel-in/parallel-out (PIPO) with J-K input and true/complement output
+4038 - Triple serial adder
+4040 - 12-stage binary ripple counter
+4041 - Quad true/complement buffer
+4042 - Quad D-type latch
+4043 - Quad NOR R/S latch
+4044 - Quad NAND R/S latch (tristate output)
+4045 - 21-Stage Counter
+4046 - PLL with VCO
+4047 - Monostable/Astable Multivibrator
+4048 - Multifunctional expandable 8-input (tristate output)
+4049 - Hex inverter/buffer (NOT gate)
+4050 - Hex buffer/converter (non-inverting)
+4051 - Analogue multiplexer/demultiplexer (1-of-8 switch)
+4052 - Analogue multiplexer/demultiplexer (Dual 1-of-4 switch)
+4053 - Analogue multiplexer/demultiplexer (Triple 1-of-2 switch)
+4054 - 7-segment decoder/LCD driver
+4055 - BCD-to-7-segment decoder/driver with "display-frequency" output
+4056 - BCD-to-7-segment decoder/driver with strobed latch function
+4059 - Programmable divide-by-N counter
+4060 - 14-stage binary ripple counter and oscillator
+4062 - Logic dual 3 majority gate
+4063 - 4-bit Digital comparator
+4066 - Quad Analog switch (Low "ON" Resistance)
+4067 - 16-channel analogue multiplexer/demultiplexer (1-of-16 switch)
+4068 - 8-input NAND gate
+4069 - Hex inverter
+4070 - Quad XOR gate
+4071 - Quad 2-input OR gate
+4072 - Dual 4-input OR gate
+4073 - Triple 3-input AND gate
+4075 - Triple 3-input OR gate
+4076 - Quad D-type register with tristate outputs
+4077 - Quad 2-input XNOR gate
+4078 - 8-input NOR gate
+4081 - Quad 2-input AND gate
+4082 - Dual 4-input AND gate
+4085 - Dual 2-wide, 2-input AND/OR invert (AOI)
+4086 - Expandable 4-wide, 2-input AND/OR invert (AOI)
+4089 - Binary rate multiplier
+4093 - Quad 2-input Schmitt trigger NAND gate
+4094 - 8-stage shift-and-store bus
+4095 - Gated "J-K" (non-inverting)
+4096 - Gated "J-K" (inverting and non-inverting)
+4097 - Differential 8-channel analog multiplexer/demultiplexer
+4098 - Dual one-shot monostable
+4099 - 8-bit addressable latch
+4104 - Quad Low-to-High Voltage Translator with tristate outputs
+4502 - Hex inverting buffer (tristate)
+4503 - Hex non-inverting buffer with tristate outputs
+4504 - Hex voltage level shifter for TTL-to-CMOS or CMOS-to-CMOS operation
+4508 - Dual 4-bit latch with tristate outputs
+4510 - Presettable 4-bit BCD up/down counter
+4511 - BCD to 7-segment latch/decoder/driver
+4512 - 8-input multiplexer (data selector) with tristate output
+4513 - BCD to 7-segment latch/decoder/driver (4511 plus ripple blanking)
+4514 - 1-of-16 decoder/demultiplexer active HIGH output
+4515 - 1-of-16 decoder/demultiplexer active LOW output
+4516 - Presettable 4-bit binary up/down counter
+4517 - Dual 64-Bit Static Shift Register
+4518 - Dual BCD up counter
+4519 - Quad 2-input multiplexer (data selector)
+4520 - Dual 4-bit binary up counter
+4521 - 24-stage frequency divider
+4522 - Programmable BCD divide-by-N counter
+4526 - Programmable 4-bit binary down counter
+4527 - BCD rate multiplier
+4528 - Dual Retriggerable Monostable Multivibrator with Reset
+4529 - Dual 4-channel analog
+4532 - 8-bit priority encoder
+4536 - Programmable Timer
+4538 - Dual Retriggerable Precision Monostable Multivibrator
+4539 - Dual 4-input multiplexer
+4541 - Programmable Timer
+4543 - BCD to 7-Segment Latch/Decoder/Driver with Phase Input
+4553 - 3-digit BCD counter
+4555 - Dual 1-of-4 decoder/demultiplexer active HIGH output
+4556 - Dual 1-of-4 decoder/demultiplexer active LOW output
+4557 - 1-to-64 Bit Variable Length Shift Register
+4560 - NBCD adder
+4566 - Industrial time-base generator
+4572 - Hex gate : quad NOT, single NAND, single NOR
+4584 - Hex schmitt trigger
+4585 - 4-bit Digital comparator
+4724 - 8-bit addressable latch
+4750 - Frequency synthesizer
+4751 - Universal divider
+4794 - 8-Stage Shift-and-Store Register LED Driver
+4894 - 12-Stage Shift-and-Store Register LED Driver
+4938 - Dual Retriggerable Precision Monostable Multivibrator with Reset
+4952 - 8-channel analog multiplexer/demultiplexer
+40098 - 3-state hex inverting buffer
+40100 - 32-bit left/right Shift Register
+40101 - 9-bit Parity Generator/Checker
+40102 - Presettable 2-decade BCD down counter
+40103 - Presettable 8-bit binary down counter
+40104 - 4 bit bidirectional Parallel-in/Parallel-out PIPO Shift Register (tristate)
+40105 - 4-bit x 16 word Register
+40106 - Hex Inverting Schmitt-Trigger-(NOT gates)
+40107 - dual 2-input NAND buffer/driver
+40108 - 4x4-bit (tristate) synchronous triple-port register file
+40109 - Quad level shifter
+40110 - Up/Down Counter-Latch-Decoder-Driver
+40116 - 8-bit bidirectional CMOS-to-TTL level converter
+40117 - Programmable dual 4-bit terminator
+40147 - 10-line to 4-line [BCD] priority encoder
+40160 - Decade counter/asynchronous clear
+40161 - Binary counter/asynchronous clear
+40162 - 4-bit synchronous decade counter with load, reset, and ripple carry output
+40163 - 4-bit synchronous binary counter with load, reset, and ripple carry output
+40174 - Hex D-type flip-flop with reset; positive-edge trigger
+40175 - Quad D-type flip-flop with reset; positive-edge trigger
+40181 - 4-bit 16-function arithmetic logic unit (ALU)
+40192 - Presettable 4-bit BCD up/down counter
+40193 - Presettable 4-bit binary up/down counter
+40194 - 4-bit universal bidirectional with asynchronous master reset
+40195 - 4-bit universal shift register
+40208 - 4 × 4-bit (tristate) synchronous triple-port register file
+40240 - Buffer/Line driver; Inverting (tristate)
+40244 - Buffer/Line Driver; Non-Inverting (tristate)
+40245 - Octuple bus transceiver; (tristate) outputs,
+40257 - Quad 2-Line-to-1-Line Data Selector/Multiplexer (tristate)
+40373 - Octal D-Type Transparent latch (tristate)
+40374 - Octal D-type flip-flop; positive-edge trigger (tristate)

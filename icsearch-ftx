@@ -1,0 +1,18 @@
+#!/bin/sh
+if [ -z "$*" ] ; then
+		echo "enter case insensitive search term"
+		exit
+fi
+
+args="$*"
+
+DIR=`dirname $0` # or whereever
+
+cd $DIR || {
+	echo "cant change to dir $DIR"
+	exit
+	}
+echo "."
+for i in $args ; do
+	grep -i $i 7400.txt 4000.txt
+done
