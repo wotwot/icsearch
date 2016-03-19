@@ -4,8 +4,8 @@
 # 20151014 wotwot
 
 if [ -z "$*" ] ; then
-		echo "enter case insensitive search term"
-		exit
+	echo "enter case insensitive search term"
+	exit
 fi
 
 args="$*"
